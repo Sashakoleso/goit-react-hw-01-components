@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://sashakoleso.github.io/goit-react-hw-01-components/buid/",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
